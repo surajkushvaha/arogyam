@@ -1,0 +1,51 @@
+.navbar {
+    position: fixed;
+    background-color: #ffffff;
+    width: 100%;
+    border-color: #5e5e5e;
+    border: none;
+    border-radius: 0;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.844);
+    z-index: 5;
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.card {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
+    backdrop-filter: blur(16px);
+    border-top: 1px solid rgba(255, 255, 255, 0.665);
+    border-left: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 30px rgba(51, 48, 48, 0.446);
+}
+
+.card img {
+    border-radius: 5px;
+}
+
+#card12 {}
+
+.btn-danger {
+    background-color: #ff0000;
+}
