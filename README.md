@@ -1,4 +1,4 @@
-# Symptoms_Checker
+# Symptoms Checker #
 
 website: https://surajkushvaha.github.io/Symptoms_Checker/Homepage.html
 
@@ -8,20 +8,23 @@ this website desgined by me
 
 all data in this website taken from diffrent websites and sources.
 
-for desgining website refrence:
+### for desgining website refrence: ###
+> for version 1 :
+> bootstrap
+> google
+> youtube
+  
+> for vesion 2 ( not ready) :
+> react  
+> api from https://developer.infermedica.com/
 
--bootstrap
 
--google
 
--youtube
+### for data and inspiration refrence: ###
 
-for data and inspiration refrence:
+- Symptomate.com
 
--Symptomate.com
+- github.com(diffrent projects)
 
--github.com(diffren projects)
+- google
 
--google
-
-- api from https://developer.infermedica.com/
