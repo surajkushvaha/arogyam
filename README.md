@@ -9,9 +9,9 @@
 > |--|--|
 > | Project Name | Symptoms Checker|
 > | Project Category| Health |
-> | Given by| [Darshan University](https://darshan.ac.in) |
-> | Part of | [Desgin Engineering](https://de.gtu.ac.in) |
-> | Desgin by | [Suraj Kushvaha](https://github.com/surajkushvaha) |
+> | Given by| [Darshan University](https://www.darshan.ac.in/) |
+> | Part of | [Desgin Engineering](https://www.de.gtu.ac.in/) |
+> | Desgin by | [Suraj Kushvaha](https://www.github.com/surajkushvaha/) |
 
 
 > `Note : All data in this website taken from diffrent websites and sources.`
