@@ -1,6 +1,7 @@
-# Symptoms Checker #
+# Symptoms Checker - [Arogyam](https://surajkushvaha.github.io/arogyam/Homepage.html) #
 
-#### Arogyam  is a symptoms checker website that check your symptoms based on your answer other features are like covid 19 information website: https://surajkushvaha.github.io/arogyam/Homepage.html ####
+#### Arogyam  is a symptoms checker website that check your symptoms based on your answer other features are like covid 19 information website. ####
+
 
 ## This project is a part of our Acadmic project given by ` Darshan University ` .
 
