@@ -1,4 +1,4 @@
-# Symptoms Checker - [Arogyam](https://surajkushvaha.github.io/arogyam/Homepage.html) #
+# Symptoms Checker - [Arogyam](https://surajkushvaha.github.io/arogyam/index.html) #
 
 
 
