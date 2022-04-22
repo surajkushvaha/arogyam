@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #ee4444;
+  z-index: -10;
+}
+
+#particles-js {
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+header * {
+  color: aliceblue;
+}
+
+#btnCau {
+  display: none;
+}
+
+#Cau,
+#Que {
+  display: block;
+}
+
+@media only screen and (max-width: 650px) {
+  #Que,
+  #Cau {
+    grid-column: 1/3;
+    gap: 0;
+    width: auto;
+  }
+
+  #Questions,
+  #possibleQue {
+    width: auto;
+  }
+
+  #Cau {
+    display: none;
+  }
+}
