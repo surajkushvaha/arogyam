@@ -19,24 +19,9 @@
 
 > `Note : All data in this website taken from diffrent websites and sources.`
 
-
-### For desgining website refrence: ###
-
-- For version 1 :
-
-  - Bootstrap
-  - Google
-  - Youtube
-  
-- for vesion 2 ( not ready) :
-
-  - React  
-  - Youtube - CodeWithHarry
-  - API from [infermedia](https://developer.infermedica.com/)
-
-
-
 ### Main Refrences: ###
+
+- familydoctor.org
 
 - Symptomate.com
 
@@ -44,3 +29,4 @@
 
 - google
 
+> Special Thanks to [Shivam Nanda](https://github.com/Shivam1202)
