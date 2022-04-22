@@ -15,6 +15,7 @@
 > | Part of | [Desgin Engineering](https://www.de.gtu.ac.in) |
 > | Desgin by | [Suraj Kushvaha](https://www.github.com/surajkushvaha) |
 
+> Special Thanks to [Shivam Nanda](https://github.com/Shivam1202)
 
 > `Note : All data in this website taken from diffrent websites and sources.`
 
@@ -28,4 +29,3 @@
 
 - google
 
-> Special Thanks to [Shivam Nanda](https://github.com/Shivam1202)
